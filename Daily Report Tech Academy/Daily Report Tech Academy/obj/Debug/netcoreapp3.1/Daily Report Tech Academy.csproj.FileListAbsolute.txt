@@ -1,0 +1,14 @@
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.exe
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.deps.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.runtimeconfig.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.runtimeconfig.dev.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.dll
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\bin\Debug\netcoreapp3.1\Daily Report Tech Academy.pdb
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.csproj.AssemblyReference.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.AssemblyInfoInputs.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.AssemblyInfo.cs
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.dll
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.pdb
+C:\Users\Rusty\Desktop\Basic_C#_Programs\Daily Report Tech Academy\Daily Report Tech Academy\obj\Debug\netcoreapp3.1\Daily Report Tech Academy.genruntimeconfig.cache
