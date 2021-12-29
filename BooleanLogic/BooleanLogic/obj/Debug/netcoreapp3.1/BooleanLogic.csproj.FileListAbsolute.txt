@@ -1,0 +1,14 @@
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.exe
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.deps.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.runtimeconfig.dev.json
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\bin\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.csproj.AssemblyReference.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.AssemblyInfo.cs
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.dll
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.pdb
+C:\Users\Rusty\Desktop\Basic_C#_Programs\BooleanLogic\BooleanLogic\obj\Debug\netcoreapp3.1\BooleanLogic.genruntimeconfig.cache
