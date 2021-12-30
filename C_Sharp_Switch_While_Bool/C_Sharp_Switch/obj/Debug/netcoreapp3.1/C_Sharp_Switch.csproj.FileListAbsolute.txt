@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.exe
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.deps.json
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.runtimeconfig.json
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.dll
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\bin\Debug\netcoreapp3.1\C_Sharp_Switch.pdb
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.dll
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.pdb
+C:\Users\Rusty\source\repos\C_Sharp_Switch\C_Sharp_Switch\obj\Debug\netcoreapp3.1\C_Sharp_Switch.genruntimeconfig.cache

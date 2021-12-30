@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Rusty\source\repos\While_bool_switch_bool.cs" Link="While_bool_switch_bool.cs" />
+  </ItemGroup>
+
+</Project>
