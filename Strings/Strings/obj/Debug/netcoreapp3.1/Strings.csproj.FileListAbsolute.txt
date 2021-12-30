@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Rusty\source\repos\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Rusty\source\repos\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
