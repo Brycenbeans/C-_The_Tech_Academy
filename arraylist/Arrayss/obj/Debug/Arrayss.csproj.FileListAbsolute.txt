@@ -1,7 +1,0 @@
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\bin\Debug\Arrayss.exe.config
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\bin\Debug\Arrayss.exe
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\bin\Debug\Arrayss.pdb
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\obj\Debug\Arrayss.csprojAssemblyReference.cache
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\obj\Debug\Arrayss.csproj.CoreCompileInputs.cache
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\obj\Debug\Arrayss.exe
-C:\Users\Rusty\source\repos\Arrayss\Arrayss\obj\Debug\Arrayss.pdb
