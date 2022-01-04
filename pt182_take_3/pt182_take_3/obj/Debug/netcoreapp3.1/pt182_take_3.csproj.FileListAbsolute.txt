@@ -1,0 +1,13 @@
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.exe
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.deps.json
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.runtimeconfig.json
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.dll
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\bin\Debug\netcoreapp3.1\pt182_take_3.pdb
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.dll
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.pdb
+C:\Users\Rusty\source\repos\pt182_take_3\pt182_take_3\obj\Debug\netcoreapp3.1\pt182_take_3.genruntimeconfig.cache
