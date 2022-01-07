@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.exe
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.deps.json
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.runtimeconfig.json
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.dll
+C:\Users\Rusty\source\repos\pt_220\pt_220\bin\Debug\netcoreapp3.1\pt_220.pdb
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.dll
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.pdb
+C:\Users\Rusty\source\repos\pt_220\pt_220\obj\Debug\netcoreapp3.1\pt_220.genruntimeconfig.cache
