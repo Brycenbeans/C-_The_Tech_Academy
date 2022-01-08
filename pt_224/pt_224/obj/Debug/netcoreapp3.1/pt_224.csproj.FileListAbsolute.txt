@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.exe
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.deps.json
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.runtimeconfig.json
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.dll
+C:\Users\Rusty\source\repos\pt_224\pt_224\bin\Debug\netcoreapp3.1\pt_224.pdb
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.dll
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.pdb
+C:\Users\Rusty\source\repos\pt_224\pt_224\obj\Debug\netcoreapp3.1\pt_224.genruntimeconfig.cache
