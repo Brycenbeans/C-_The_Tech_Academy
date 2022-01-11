@@ -11,6 +11,13 @@ namespace PT_241
             employee.lastName = "Student";
             employee.SayName();
             Console.ReadLine();
+            employee.Quit();
+            Console.ReadLine();
+
+
+            IQuittable IQuit = new Employee();
+            IQuit.Quit();
         }
+        
     }
 }
