@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.exe
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.deps.json
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.runtimeconfig.json
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.dll
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\bin\Debug\netcoreapp3.1\Pt_241_Fixed.pdb
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.dll
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.pdb
+C:\Users\Rusty\source\repos\Pt_241_Fixed\Pt_241_Fixed\obj\Debug\netcoreapp3.1\Pt_241_Fixed.genruntimeconfig.cache

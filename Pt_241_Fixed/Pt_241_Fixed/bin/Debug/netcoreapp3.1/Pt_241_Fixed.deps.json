@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pt_241_Fixed/1.0.0": {
+        "runtime": {
+          "Pt_241_Fixed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pt_241_Fixed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
