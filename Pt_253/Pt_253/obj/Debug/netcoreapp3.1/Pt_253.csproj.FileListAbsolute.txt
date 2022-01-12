@@ -1,0 +1,14 @@
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.exe
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.deps.json
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.runtimeconfig.json
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.runtimeconfig.dev.json
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.dll
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\bin\Debug\netcoreapp3.1\Pt_253.pdb
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.csproj.AssemblyReference.cache
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.AssemblyInfoInputs.cache
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.AssemblyInfo.cs
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.csproj.CoreCompileInputs.cache
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.dll
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.pdb
+C:\Users\Rusty\source\repos\Pt_253\Pt_253\obj\Debug\netcoreapp3.1\Pt_253.genruntimeconfig.cache
